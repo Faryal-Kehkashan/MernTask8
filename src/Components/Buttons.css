@@ -1,0 +1,19 @@
+.btn2,.btn1{
+    padding: .7rem;
+    border-radius: .6rem;
+    font-size: 1.1rem;
+    background-color: #282c34;
+    color: #ffffff;
+    border: 1px solid #000000;
+}
+.btn1{
+    margin: 2rem auto .4rem auto;
+
+}
+.btn2{
+    margin: .2rem auto .4rem auto;
+}
+.btn1:hover, .btn2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
